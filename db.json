@@ -2,19 +2,19 @@
   "PatientInformation": [],
   "PatientsAll": [
     {
-      "firatName": "علی",
+      "firstName": "علی",
       "lastName": "ماک",
       "idCode": "2285144636"
     },
 
     {
-      "firatName": "ممی",
+      "firstName": "ممی",
       "lastName": "ماکیان",
       "idCode": "2285144635"
     },
 
     {
-      "firatName": "کاکام",
+      "firstName": "کاکام",
       "lastName": "سازی",
       "idCode": "2295144631"
     }
