@@ -54,5 +54,19 @@
       "referringDoctor": "نو ",
       "bedNumber": "1"
     }
+  ],
+  "Doctors": [
+    {
+      "firstName": "گوزو",
+      "lastName": "براتی",
+      "medicalSystemCode": "12345",
+      "specification": "ماما",
+      "shift": "صبح",
+      "idCode": "1234567890",
+      "timeOfWork": [
+        "شنبه ساعت 10 صبح تا 13 بعد از ظهر",
+        "پنجشنبه ساعت 17 عصر تا 22 شب"
+      ]
+    }
   ]
 }
