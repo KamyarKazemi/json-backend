@@ -57,12 +57,12 @@
   ],
   "Doctors": [
     {
-      "firstName": "گوزو",
-      "lastName": "براتی",
+      "doctorFirstName": "گوزو",
+      "doctorLastName": "براتی",
       "medicalSystemCode": "12345",
       "specification": "ماما",
       "shift": "صبح",
-      "idCode": "1234567890",
+      "doctorIdCode": "1234567890",
       "timeOfWork": [
         "شنبه ساعت 10 صبح تا 13 بعد از ظهر",
         "پنجشنبه ساعت 17 عصر تا 22 شب"
