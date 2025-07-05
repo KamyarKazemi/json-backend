@@ -3,12 +3,12 @@
   "PatientsAll": [
     {
       "firstName": "علی",
-      "lastName": "ماک",
+      "lastName": "باقری",
       "idCode": "2285144636",
       "birthDate": "1400/5/3",
       "medicalRecordNumber": "1123",
       "phoneNumber": "09173005972",
-      "fullAddress": "خیابان گوز و کوپه 9",
+      "fullAddress": "باوار مدرس...",
       "insuranceCompany": "خدمات درمانی",
       "insurancePolicyNumber": "1234567890",
       "admissionWeight": "10kg",
@@ -16,13 +16,13 @@
     },
 
     {
-      "firstName": "ممی",
-      "lastName": "ماکیان",
+      "firstName": "محمد",
+      "lastName": "مالکی",
       "idCode": "2285144635",
       "birthDate": "1395/11/1",
       "medicalRecordNumber": "1190",
       "phoneNumber": "9973005972",
-      "fullAddress": "خیابان گوز و کوپه88",
+      "fullAddress": "خیابان محبت",
       "insuranceCompany": "تامین اجتماعی",
       "insurancePolicyNumber": "3339990",
       "admissionWeight": "40kg",
@@ -30,13 +30,13 @@
     },
 
     {
-      "firstName": "کاکام",
-      "lastName": "سازی",
+      "firstName": "ماریا",
+      "lastName": "شاهی",
       "idCode": "2295144631",
       "birthDate": "1391/3/30",
       "medicalRecordNumber": "1058",
       "phoneNumber": "9301641943",
-      "fullAddress": "خیابان گوز 0 9",
+      "fullAddress": "خیابان...",
       "insuranceCompany": "کمیته امداد امام خمینی",
       "insurancePolicyNumber": "1112223",
       "admissionWeight": "90kg",
@@ -45,26 +45,45 @@
   ],
   "Doctors": [
     {
-      "doctorFirstName": "گوزو",
-      "doctorLastName": "براتی",
+      "doctorFirstName": "امیر",
+      "doctorLastName": "گرامی",
       "medicalSystemCode": "12345",
-      "specification": "ماما",
-      "shift": "صبح",
+      "specification": "متخصص قلب",
+      "shift": ["صبح", "عصر"],
       "doctorIdCode": "1234567890",
       "timeOfWork": [
         "شنبه ساعت 10 صبح تا 13 بعد از ظهر",
         "پنجشنبه ساعت 17 عصر تا 22 شب"
       ]
+    },
+    {
+      "doctorFirstName": "سینا",
+      "doctorLastName": "کلانترس",
+      "medicalSystemCode": "12345",
+      "specification": "متخصص جراحی حلق و بینی",
+      "shift": ["شب", "عصر"],
+      "doctorIdCode": "1234567890",
+      "timeOfWork": [
+        "سه شنبه ساعت 20 شب تا 12 صبح",
+        "پنجشنبه ساعت 13 عصر تا 19 شب"
+      ]
     }
   ],
   "Nurses": [
     {
-      "firstName": "پری",
-      "lastName": "نرز",
+      "firstName": "زهرا",
+      "lastName": "روحانی",
       "nurseShift": "ظهر",
-      "report": "نون",
-      "patientFoods": ["11", "پشه"],
-      "medicalSystemCode": "12345",
+      "patientFoods": ["مشخص نشده", "نامشحص"],
+      "medicalSystemCode": "123",
+      "nurseIdCode": "77777777778"
+    },
+    {
+      "firstName": "حسین",
+      "lastName": "شاهرخی",
+      "nurseShift": "عصر",
+      "patientFoods": ["مشخص نشده", "نامشحص"],
+      "medicalSystemCode": "123499",
       "nurseIdCode": "7777777777"
     }
   ]
