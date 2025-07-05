@@ -12,10 +12,7 @@
       "insuranceCompany": "خدمات درمانی",
       "insurancePolicyNumber": "1234567890",
       "admissionWeight": "10kg",
-      "admissionHeight": "30cm",
-      "glasgowComaScale": "15",
-      "apacheScore": "71",
-      "bedNumber": "31"
+      "admissionHeight": "30cm"
     },
 
     {
@@ -29,10 +26,7 @@
       "insuranceCompany": "تامین اجتماعی",
       "insurancePolicyNumber": "3339990",
       "admissionWeight": "40kg",
-      "admissionHeight": "32cm",
-      "glasgowComaScale": "5",
-      "apacheScore": "4",
-      "bedNumber": "70"
+      "admissionHeight": "32cm"
     },
 
     {
@@ -46,10 +40,7 @@
       "insuranceCompany": "کمیته امداد امام خمینی",
       "insurancePolicyNumber": "1112223",
       "admissionWeight": "90kg",
-      "admissionHeight": "90cm",
-      "glasgowComaScale": "12",
-      "apacheScore": "5",
-      "bedNumber": "1"
+      "admissionHeight": "90cm"
     }
   ],
   "Doctors": [
@@ -72,7 +63,6 @@
       "lastName": "نرز",
       "nurseShift": "ظهر",
       "report": "نون",
-      "vitalSignsOnAdmission": "نه الان",
       "patientFoods": ["11", "پشه"],
       "medicalSystemCode": "12345",
       "nurseIdCode": "7777777777"
