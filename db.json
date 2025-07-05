@@ -15,7 +15,6 @@
       "admissionHeight": "30cm",
       "glasgowComaScale": "15",
       "apacheScore": "71",
-      "referringDoctor": "نو دکتر",
       "bedNumber": "31"
     },
 
@@ -33,7 +32,6 @@
       "admissionHeight": "32cm",
       "glasgowComaScale": "5",
       "apacheScore": "4",
-      "referringDoctor": "یس دکتر",
       "bedNumber": "70"
     },
 
@@ -51,7 +49,6 @@
       "admissionHeight": "90cm",
       "glasgowComaScale": "12",
       "apacheScore": "5",
-      "referringDoctor": "نو ",
       "bedNumber": "1"
     }
   ],
