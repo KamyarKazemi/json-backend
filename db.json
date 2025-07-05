@@ -65,5 +65,17 @@
         "پنجشنبه ساعت 17 عصر تا 22 شب"
       ]
     }
+  ],
+  "Nurses": [
+    {
+      "firstName": "پری",
+      "lastName": "نرز",
+      "nurseShift": "ظهر",
+      "report": "نون",
+      "vitalSignsOnAdmission": "نه الان",
+      "patientFoods": ["11", "پشه"],
+      "medicalSystemCode": "12345",
+      "nurseIdcode": "7777777777"
+    }
   ]
 }
