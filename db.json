@@ -75,7 +75,7 @@
       "vitalSignsOnAdmission": "نه الان",
       "patientFoods": ["11", "پشه"],
       "medicalSystemCode": "12345",
-      "nurseIdcode": "7777777777"
+      "nurseIdCode": "7777777777"
     }
   ]
 }
