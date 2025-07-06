@@ -10,9 +10,7 @@
       "phoneNumber": "09173005972",
       "fullAddress": "باوار مدرس...",
       "insuranceCompany": "خدمات درمانی",
-      "insurancePolicyNumber": "1234567890",
-      "admissionWeight": "10kg",
-      "admissionHeight": "30cm"
+      "insurancePolicyNumber": "1234567890"
     },
 
     {
@@ -24,9 +22,7 @@
       "phoneNumber": "9973005972",
       "fullAddress": "خیابان محبت",
       "insuranceCompany": "تامین اجتماعی",
-      "insurancePolicyNumber": "3339990",
-      "admissionWeight": "40kg",
-      "admissionHeight": "32cm"
+      "insurancePolicyNumber": "3339990"
     },
 
     {
@@ -38,9 +34,7 @@
       "phoneNumber": "9301641943",
       "fullAddress": "خیابان...",
       "insuranceCompany": "کمیته امداد امام خمینی",
-      "insurancePolicyNumber": "1112223",
-      "admissionWeight": "90kg",
-      "admissionHeight": "90cm"
+      "insurancePolicyNumber": "1112223"
     }
   ],
   "Doctors": [
